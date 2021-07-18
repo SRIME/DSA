@@ -59,5 +59,5 @@ int main(){
             printf("%d\t",C[i][j]);
         }
     }   
-    //Sampule text
+    //Sample text
 }
