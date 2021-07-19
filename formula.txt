@@ -1,0 +1,6 @@
+Row major formula: Lo + [i*n+j]*w
+        here Lo is the address of the first element
+             i is the value of i
+             n is the number of columns
+             j is the value of j
+             w is the size of the integer (2 or 4)
